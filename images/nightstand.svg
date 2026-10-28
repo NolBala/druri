@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img">
+<defs>
+<linearGradient id="w" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#D9DDD8"/><stop offset="1" stop-color="#C7CBC6"/></linearGradient>
+<linearGradient id="f" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#9F8770"/><stop offset="1" stop-color="#887460"/></linearGradient>
+<radialGradient id="sh" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#000" stop-opacity="0.28"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+<radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#FFE9B8" stop-opacity="0.85"/><stop offset="1" stop-color="#FFE9B8" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="800" height="600" fill="url(#w)"/>
+<rect y="470" width="800" height="130" fill="url(#f)"/>
+<rect y="464" width="800" height="6" fill="#B1B5B1"/>
+
+<ellipse cx="400" cy="474" rx="150.0" ry="13.0" fill="url(#sh)"/><path d="M294.0 430 L306.0 430 L303.0 470 L297.0 470Z" fill="#573721"/><path d="M494.0 430 L506.0 430 L503.0 470 L497.0 470Z" fill="#573721"/><rect x="280" y="290" width="240" height="140" rx="8" fill="#6B4429"/><rect x="296" y="304" width="208" height="54" rx="4" fill="#D9CBB3"/><rect x="296" y="364" width="208" height="54" rx="4" fill="#D9CBB3"/><rect x="380" y="327" width="40" height="7" rx="3" fill="#4A2F1C"/><rect x="380" y="387" width="40" height="7" rx="3" fill="#4A2F1C"/><ellipse cx="350" cy="200" rx="90" ry="70" fill="url(#glow)"/><path d="M335 290 L340 236 L360 236 L365 290Z" fill="#CFC6B6"/><path d="M314 238 L322 180 L378 180 L386 238Z" fill="#F4EAD3"/><rect x="430" y="276" width="58" height="14" rx="2" fill="#5E6E7A"/>
+</svg>

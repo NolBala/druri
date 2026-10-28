@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img">
+<defs>
+<linearGradient id="w" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#E5E2DA"/><stop offset="1" stop-color="#D2CFC8"/></linearGradient>
+<linearGradient id="f" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#A48C70"/><stop offset="1" stop-color="#8D7860"/></linearGradient>
+<radialGradient id="sh" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#000" stop-opacity="0.28"/><stop offset="1" stop-color="#000" stop-opacity="0"/></radialGradient>
+<radialGradient id="glow" cx="0.5" cy="0.5" r="0.5"><stop offset="0" stop-color="#FFE9B8" stop-opacity="0.85"/><stop offset="1" stop-color="#FFE9B8" stop-opacity="0"/></radialGradient>
+</defs>
+<rect width="800" height="600" fill="url(#w)"/>
+<rect y="470" width="800" height="130" fill="url(#f)"/>
+<rect y="464" width="800" height="6" fill="#BBB9B2"/>
+<rect x="330" y="80" width="140" height="110" fill="#F6F3EE" stroke="#3A332C" stroke-width="5"/><circle cx="383.2" cy="129.5" r="24.2" fill="#B5583F"/><rect x="397.2" y="113.0" width="42.0" height="46.199999999999996" fill="#8C9AA6"/>
+<ellipse cx="400" cy="474" rx="330.0" ry="15.0" fill="url(#sh)"/><rect x="121.5" y="360" width="9" height="110" fill="#5D3A22"/><rect x="189.5" y="360" width="9" height="110" fill="#5D3A22"/><rect x="116" y="348" width="88" height="16" rx="4" fill="#C9A24A"/><rect x="120" y="230" width="9" height="124" fill="#5D3A22"/><rect x="191" y="230" width="9" height="124" fill="#5D3A22"/><rect x="118" y="236" width="84" height="40" rx="8" fill="#C9A24A"/><rect x="601.5" y="360" width="9" height="110" fill="#5D3A22"/><rect x="669.5" y="360" width="9" height="110" fill="#5D3A22"/><rect x="596" y="348" width="88" height="16" rx="4" fill="#C9A24A"/><rect x="600" y="230" width="9" height="124" fill="#5D3A22"/><rect x="671" y="230" width="9" height="124" fill="#5D3A22"/><rect x="598" y="236" width="84" height="40" rx="8" fill="#C9A24A"/><path d="M221.0 318 L239.0 318 L234.5 470 L225.5 470Z" fill="#633E24"/><path d="M561.0 318 L579.0 318 L574.5 470 L565.5 470Z" fill="#633E24"/><rect x="200" y="300" width="400" height="24" rx="4" fill="#6E4528"/><rect x="200" y="320" width="400" height="6" fill="#55351F"/><path d="M380 300 Q372 250 400 238 Q428 250 420 300Z" fill="#EDE7DC"/><circle cx="392" cy="226" r="14" fill="#C9A24A"/><circle cx="410" cy="220" r="12" fill="#B5583F"/>
+</svg>
